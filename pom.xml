@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>medicinal_common</module>
+        <module>medicinal_registry</module>
     </modules>
 
 
